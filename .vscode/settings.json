@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "memory_resource": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
